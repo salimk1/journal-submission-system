@@ -13,9 +13,9 @@ The web application is built using React, with React Redux for site state manage
 	```
 	sudo apt install nodejs npm
 	```
-2. Navigate to `jmj-backend` directory
+2. Navigate to `jmj-frontend` directory
 	```
-	cd src/jmj-backend
+	cd src/jmj-frontend
 	```
 3. Install dependencies
 	```
