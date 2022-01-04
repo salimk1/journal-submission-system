@@ -1,0 +1,22 @@
+.register .column {
+    max-width: 480px;
+}
+
+.register .field > label.white {
+    text-align: left;
+    color:#fff;
+}
+
+.register .remove-field  {
+    align-self: flex-end;
+}
+
+.register button.remove-row  {
+    display: block;
+    height:44px;
+    align-self: flex-end;
+}
+.register .degree {
+    border: 2px dashed rgb(0,0,0);
+    padding:8px;
+}
