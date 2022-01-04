@@ -15,7 +15,7 @@ The web application is built using React, with React Redux for site state manage
 	```
 2. Navigate to `jmj-backend` directory
 	```
-	cd src\jmj-backend
+	cd src/jmj-backend
 	```
 3. Install dependencies
 	```
